@@ -1,4 +1,4 @@
-
+This is a project was written by some of my good programming buddies (Zack Jensen, Davis Hyer, Ian Davies, Trevor Martin) and myself. It was a great learning experience as we worked together to design, implement and test the code you see here.
 
 Run the demo server using "ant server".  Then navigate to localhost:8081/ in 
 order to read the documentation.  The "Java docs" link takes you to documentation
